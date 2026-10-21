@@ -1,0 +1,200 @@
+{
+  "services": [
+    {
+      "slug": "professional-data-training",
+      "pillar": "train",
+      "title": "Professional data training",
+      "summary": "Structured, practical programs that take beginners and working professionals from foundational skills to job-ready data work.",
+      "body": "Data skills are the foundation of every data-driven organisation. Our training programs are cohort-based and project-driven: participants learn by working on realistic datasets and business questions, not by watching slides.\n\n## How the training works\nEach cohort follows a structured curriculum with clear milestones. Sessions combine short concept introductions with hands-on practice, peer review and mentor feedback, so participants leave with a portfolio of work rather than a certificate alone.\n\n## Who it is for\n- Graduates and career changers building a pathway into data roles\n- Working professionals who need practical analysis skills alongside their job\n- Teams that want a shared foundation in working with data",
+      "features": [
+        "Data Talents Program: Data Analysis, Data Engineering and other specializations",
+        "Afterwork Data Analysis for Professionals",
+        "Cohort-based, project-driven learning",
+        "Mentor feedback and portfolio projects"
+      ],
+      "outcomes": [
+        "Job-ready, practical data skills",
+        "A portfolio of real analysis projects",
+        "Confidence working with real business data"
+      ]
+    },
+    {
+      "slug": "corporate-upskilling",
+      "pillar": "train",
+      "title": "Corporate team upskilling",
+      "summary": "Tailored data training for your staff, designed around your tools, your data and the decisions your teams make every day.",
+      "body": "Generic courses rarely change how a team works. We design training around your organisation: the systems you already use, the reports your managers rely on, and the questions your teams need to answer.\n\n## Our approach\nWe start by understanding current skill levels and the decisions that matter most. The program is then built around your own (anonymised where needed) data, so every exercise is directly relevant to day-to-day work.\n\n## Formats\n- Short intensive workshops for specific skills\n- Multi-week programs for deeper capability building\n- Data literacy sessions for managers and leadership",
+      "features": [
+        "Skills assessment before training",
+        "Curriculum built on your own data and tools",
+        "Workshops, multi-week programs or leadership sessions",
+        "Post-training support and follow-up"
+      ],
+      "outcomes": [
+        "Teams that can answer their own data questions",
+        "Less dependence on a few specialists",
+        "Better, faster reporting"
+      ]
+    },
+    {
+      "slug": "data-products",
+      "pillar": "build",
+      "title": "Data products for companies",
+      "summary": "Dashboards, reports and analytical tools that put the right numbers in front of the right people at the right time.",
+      "body": "A data product turns raw information into something people use every day: a dashboard a manager checks each morning, an automated report, or a model that flags what needs attention.\n\n## What we build\nWe design and build data products around a specific decision or workflow. Every product is scoped with the people who will use it, tested against real data, and documented so your team can maintain it.\n\n## How we keep it useful\n- We define the decisions the product should support before building anything\n- We validate data quality at the source, so numbers can be trusted\n- We hand over with training and documentation",
+      "features": [
+        "Business intelligence dashboards",
+        "Automated reporting",
+        "KPI frameworks and metric definitions",
+        "Predictive and analytical models"
+      ],
+      "outcomes": [
+        "One trusted source of numbers",
+        "Hours saved on manual reporting",
+        "Faster, evidence-based decisions"
+      ]
+    },
+    {
+      "slug": "data-driven-systems",
+      "pillar": "build",
+      "title": "Data-driven systems & internal tools",
+      "summary": "Systems and internal tools that capture clean data from day one and connect it to the processes that run your business.",
+      "body": "Good analysis depends on good data, and good data depends on the systems that capture it. We build internal tools, integrations and data pipelines that make reliable data a by-product of everyday work.\n\n## Typical engagements\n- Data pipelines that bring together information from several systems\n- Internal tools that replace spreadsheets and paper forms\n- Integrations between existing business applications\n- Data warehouses that support reporting and analytics\n\nEvery system is designed with data protection, access control and maintainability in mind.",
+      "features": [
+        "Data pipelines and integration",
+        "Internal tools and workflow systems",
+        "Data warehousing",
+        "Secure, documented architecture"
+      ],
+      "outcomes": [
+        "Clean, consistent data across systems",
+        "Less manual data entry",
+        "A foundation that scales with you"
+      ]
+    },
+    {
+      "slug": "business-digitization",
+      "pillar": "build",
+      "title": "Business digitization",
+      "summary": "Moving manual, paper-based and spreadsheet processes into digital systems, so your business can see and use its own data.",
+      "body": "Many businesses still run on paper records, notebooks and disconnected spreadsheets. That information is valuable, but hard to use. We help organisations across sectors digitize their processes step by step.\n\n## How we approach digitization\nWe map how work happens today, identify where data is created and lost, and introduce digital tools in phases so teams can adapt without disruption.\n\n## What changes\n- Records become searchable and consistent\n- Managers get visibility without chasing updates\n- Data starts to accumulate in a form that can be analysed",
+      "features": [
+        "Process mapping and requirements",
+        "Phased digital rollout",
+        "Data migration from paper and spreadsheets",
+        "Staff onboarding and support"
+      ],
+      "outcomes": [
+        "Visibility over daily operations",
+        "Fewer errors and duplicated records",
+        "Data ready for analysis"
+      ]
+    },
+    {
+      "slug": "data-strategy",
+      "pillar": "advise",
+      "title": "Data strategy development",
+      "summary": "A clear, practical roadmap that connects your data investments to business priorities, people and governance.",
+      "body": "A data strategy answers simple questions that are hard to get right: which decisions matter most, what data supports them, who is responsible, and what to build first.\n\n## What a strategy engagement covers\n- Assessment of current data maturity, systems and skills\n- Prioritised use cases tied to business objectives\n- Governance: ownership, quality standards and access\n- A phased roadmap with realistic investment and capability plans\n\nWe keep strategies practical. The output is a plan your team can act on, not a document that sits on a shelf.",
+      "features": [
+        "Data maturity assessment",
+        "Use-case prioritisation",
+        "Data governance framework",
+        "Phased implementation roadmap"
+      ],
+      "outcomes": [
+        "Alignment between leadership and data teams",
+        "Investment focused on the highest-value work",
+        "Clear ownership of data"
+      ]
+    },
+    {
+      "slug": "research-and-data-collection",
+      "pillar": "advise",
+      "title": "Research, development & data collection",
+      "summary": "Rigorous research design, field data collection and analysis that produce evidence you can rely on.",
+      "body": "Sometimes the data you need does not exist yet. We design and run research and data collection exercises, from survey design to fieldwork and final analysis.\n\n## Our research services\n- Research and survey design\n- Digital field data collection with quality controls\n- Data cleaning, analysis and reporting\n- Monitoring and evaluation frameworks\n\nWe apply consent, privacy and data minimisation principles throughout, so research is both rigorous and responsible.",
+      "features": [
+        "Research and survey design",
+        "Digital field data collection",
+        "Analysis and reporting",
+        "Monitoring & evaluation frameworks"
+      ],
+      "outcomes": [
+        "Reliable evidence for decisions",
+        "Well-documented, reusable datasets",
+        "Clear, decision-ready findings"
+      ]
+    },
+    {
+      "slug": "data-protection-compliance",
+      "pillar": "advise",
+      "title": "Data protection compliance",
+      "summary": "Practical guidance to help your organisation handle personal data lawfully and responsibly, and stay compliant as you grow.",
+      "body": "Data protection is now a legal requirement as well as a matter of trust. In Rwanda, Law No. 058/2021 relating to the protection of personal data and privacy sets clear obligations for organisations that collect and process personal data.\n\n## How we help\n- Data mapping: what personal data you hold, where, and why\n- Gap assessments against legal requirements\n- Policies, notices and consent processes\n- Guidance on registration, data subject rights and breach response\n- Staff awareness training\n\nWe focus on compliance that works in practice and fits how your organisation actually operates.",
+      "features": [
+        "Personal data mapping",
+        "Compliance gap assessment",
+        "Policies, notices and consent design",
+        "Staff awareness training"
+      ],
+      "outcomes": [
+        "A clear picture of your obligations",
+        "Reduced regulatory and reputational risk",
+        "Greater trust from customers and partners"
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "slug": "data-talents-program",
+      "title": "Data Talents Program",
+      "summary": "A structured pathway into data careers, covering data analysis, data engineering, and other specializations. It takes you from foundational skills to job-ready.",
+      "body": "The Data Talents Program is designed for people who want to build a career in data. It combines a structured curriculum with hands-on projects, so participants graduate with practical skills and work they can show employers.\n\n## What you will learn\n- Foundations: spreadsheets, SQL and working with data\n- Analysis and visualisation for real business questions\n- Specialization tracks such as data analysis and data engineering\n- Communicating findings to non-technical audiences\n\n## How it runs\nThe program is cohort-based. You learn alongside peers, work on real-world projects, and receive feedback from practitioners.",
+      "tracks": [
+        "Data Analysis",
+        "Data Engineering",
+        "More specializations"
+      ],
+      "audience": "Graduates, career changers and aspiring data professionals",
+      "format": "Cohort-based · full curriculum",
+      "level": "Beginner to intermediate"
+    },
+    {
+      "slug": "afterwork-data-analysis",
+      "title": "Afterwork Data Analysis for Professionals",
+      "summary": "A focused program for working professionals who want practical data analysis skills without stepping away from their jobs. Classes run in the evenings and on weekends.",
+      "body": "Built for professionals who want to use data better in their current role. The program covers the analysis skills that make an immediate difference at work, taught on a schedule that fits around a full-time job.\n\n## What you will learn\n- Cleaning and organising data\n- Analysis techniques for everyday business questions\n- Building clear charts and dashboards\n- Presenting insights to managers and stakeholders\n\n## Schedule\nClasses run in the evenings and on weekends, so you can keep working while you learn.",
+      "tracks": [
+        "Data Analysis"
+      ],
+      "audience": "Working professionals in any sector",
+      "format": "Part-time · afterwork schedule",
+      "schedule": "Evenings and weekends",
+      "level": "Beginner"
+    }
+  ],
+  "posts": [
+    {
+      "slug": "what-being-data-driven-means",
+      "title": "What being data driven actually means for a growing business",
+      "category": "Data strategy",
+      "excerpt": "Being data driven is less about technology and more about habits: asking better questions, trusting a shared set of numbers, and acting on evidence.",
+      "body": "Many organisations want to become \"data driven\", but the phrase is often treated as a technology purchase. In practice, it is a set of habits.\n\n## Start with decisions, not data\nThe most useful question is not \"what data do we have?\" but \"which decisions do we make repeatedly, and what would help us make them better?\" A clear list of decisions gives every data investment a purpose.\n\n## Agree on one version of the numbers\nWhen finance, sales and operations each keep their own figures, meetings turn into debates about whose spreadsheet is right. Agreeing on shared definitions for key metrics is one of the highest-value steps an organisation can take.\n\n## Build skills alongside systems\nDashboards only help if people can read and question them. Investing in data literacy across teams makes every system you build more useful.\n\n## Take small, visible steps\nPick one decision, improve the data behind it, and show the result. Early wins build the trust needed for larger changes."
+    },
+    {
+      "slug": "data-protection-basics-rwanda",
+      "title": "Data protection basics every Rwandan organisation should know",
+      "category": "Compliance",
+      "excerpt": "Rwanda's data protection law applies to any organisation handling personal data. Here are the practical first steps to take.",
+      "body": "Law No. 058/2021 relating to the protection of personal data and privacy sets out how organisations in Rwanda must collect, use and protect personal data. Compliance can feel daunting, but the first steps are practical.\n\n## Know what personal data you hold\nStart with a simple inventory: what personal data do you collect, where is it stored, who can access it, and why do you need it?\n\n## Be transparent\nPeople should understand what you collect and why. Clear privacy notices and consent processes are a foundation of compliance.\n\n## Collect only what you need\nData minimisation reduces risk. If you do not need a piece of information, do not collect it.\n\n## Prepare for requests and incidents\nHave a process for responding to people who ask to see or correct their data, and a plan for what to do if a breach occurs.\n\nThis article is general guidance, not legal advice. For an assessment of your organisation, talk to our compliance team."
+    },
+    {
+      "slug": "from-spreadsheets-to-systems",
+      "title": "From spreadsheets to systems: when is it time to move on?",
+      "category": "Data systems",
+      "excerpt": "Spreadsheets are a great starting point, but they have limits. These signs show it may be time for a more structured system.",
+      "body": "Almost every business starts with spreadsheets, and for good reason: they are flexible, familiar and cheap. But as a business grows, the same flexibility becomes a risk.\n\n## Signs you have outgrown spreadsheets\n- Several versions of the same file circulate by email\n- Reports take days to compile each month\n- Errors are discovered after decisions have been made\n- Only one person really understands how the file works\n\n## What a better system looks like\nA good system captures data once, validates it at entry, and makes it available to everyone who needs it, with the right permissions.\n\n## Moving gradually\nDigitization does not have to happen all at once. Start with the process that causes the most pain, prove the value, and expand from there."
+    }
+  ]
+}
